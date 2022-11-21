@@ -55,15 +55,21 @@
 
 .thumb-text_1200_630 {
     text-align: center;
-    margin: 20px 40px;
-    padding: 10px 40px;
+    /* your margin and padding */
+    margin: 20px 20px;
+    padding: 10px 20px;
     color: #db1212;
+    /* your font-size */
+    font-size: 30px;
 }
 
 .thumb-text_400_400 {
     text-align: center;
-    margin: 10px 40px;
-    padding: 10px 40px;
+    /* your margin and padding */
+    margin: 10px 10px;
+    padding: 10px 10px;
     background-color: #fff;
     color: #ac1a1a;
+    /* your font-size */
+    font-size: 20px;
 }
