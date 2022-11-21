@@ -18,8 +18,6 @@ function mainPageContent() {
                     <p class="thumb-text_1200_630">Customize your text, outline color in CSS file.</p>
                     <p class="thumb-text_1200_630">Make a screenshot.</p>
                 </div>
-            </div>
-            <div class="wrapper">
                 <div class="canvas_400_400">
                     <p class="thumb-text_400_400">What size should open graph image be?</p>
                     <p class="thumb-text_400_400">around 400x400 pixels for WhatsApp.</p>
