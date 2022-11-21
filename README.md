@@ -1,7 +1,7 @@
 # App to create text thumbnails
 
 ---
-Customize your text and outline border color in CSS file.
+Customize your text in JavaScript file and outline color in CSS file.
 Make a screenshot.
 Canvas already in 1200x630 and 400x400 pixels.
 
