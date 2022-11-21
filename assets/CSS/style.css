@@ -58,8 +58,9 @@
     margin: 20px 20px;
     padding: 10px 20px;
     color: #db1212;
-    /* your font-size */
+    /* your font-size and font-weight */
     font-size: 30px;
+    font-weight: 900;
 }
 
 .thumb-text_400_400 {
@@ -69,6 +70,7 @@
     padding: 10px 10px;
     background-color: #fff;
     color: #ac1a1a;
-    /* your font-size */
+    /* your font-size and font-weight */
     font-size: 20px;
+    font-weight: 700;
 }
