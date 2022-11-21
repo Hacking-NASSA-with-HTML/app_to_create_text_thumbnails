@@ -6,7 +6,10 @@ generatedContent.innerHTML = mainPageContent()
 function mainPageContent() {
     const renderMainPageContent =
         `<main id="main">
-            <h1 class="titleH1">Create text thumbnails</h1>
+            <h1 class="titleH1">What size should open graph image be?</h1>
+            <h2 class="titleH1">1200 x 630 pixels for Facebook Open Graph.</h2>
+            <h2 class="titleH1">Around 400x400 pixels for WhatsApp.</h2>
+            <h3 class="titleH1">Please make sure your final images files should be less than 300kb for WhatsApp.</h3>
             <div class="wrapper">
                 <div class="canvas_1200_630">
                     <p class="thumb-text_1200_630">What size should open graph image be?</p>
