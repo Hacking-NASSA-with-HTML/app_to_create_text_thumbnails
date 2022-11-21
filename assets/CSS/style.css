@@ -38,6 +38,7 @@
     height: 630px;
     margin: 20px 0;
     background-color: #fff;
+    outline: 20px solid red;
 }
 
 .canvas_400_400 {
@@ -49,6 +50,7 @@
     height: 400px;
     margin: 20px 0;
     background-color: #fff;
+    outline: 7px solid red;
 }
 
 .thumb-text_1200_630 {
