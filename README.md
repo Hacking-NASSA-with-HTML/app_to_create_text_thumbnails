@@ -1,1 +1,1 @@
-# app_to_create_text_thumbnails
+# App to create text thumbnails
